@@ -1,0 +1,34 @@
+@media(min-width: 992px) {
+    .navbar-collapse {
+      justify-content: inherit !important;
+    }
+    .nav-item div div {
+      margin-right: 0.3em;
+    } 
+    .nav-item a{
+      display :flex;
+    }
+    .nav-item button{
+      display :flex;
+    }
+    .navbar-nav-hover.align-items-lg-center.navbar-nav{
+      margin-right: 10em;
+    }
+    
+  .align-items-lg-center.ml-lg-auto.navbar-nav{
+    margin-left: 15em !important;
+    position: relative;
+  }
+  }
+
+  @media(max-width : 992px) { 
+    .nav-link {
+      margin-top: 1em !important;
+    }
+    a small { 
+      color: #5e72e4 !important;
+    }
+    button.btn-neutral.btn-icon.btn.btn-default {
+      margin-top: 1em !important;
+    }
+  }

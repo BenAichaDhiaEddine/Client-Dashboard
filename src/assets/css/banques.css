@@ -1,0 +1,8 @@
+.card-cody h6 span {
+    color : #32325d !important
+}
+
+.CardDeck{
+    display: flex;
+    align-items: stretch;
+}
