@@ -14,8 +14,6 @@ page Créer un compte
 ![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Client-/blob/main/public/cr%C3%A9er%20un%20compte.PNG)
 page Connexion
 ![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Client-/blob/main/public/login%20page.PNG)
-page de gérer le profil 
-![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Admin-Functional-/blob/main/profile%20page.PNG)
 page gérer profil
 ![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Client-/blob/main/public/gerer%20profil%201.PNG)
 ![](https://github.com/BenAichaDhiaEddine/Simulateur-de-credit-Client-/blob/main/public/g%C3%A9rer%20profil%202.PNG)
